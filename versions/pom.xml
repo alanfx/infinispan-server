@@ -194,6 +194,14 @@
             <version>${version.org.infinispan}</version>
          </dependency>
 
+         <!-- Added by afield -->
+         <dependency>
+            <groupId>org.infinispan</groupId>
+            <artifactId>infinispan-client-hotrod-jni-test</artifactId>
+            <version>0.0.1</version>
+         </dependency>
+         <!-- Added by afield -->
+
          <dependency>
             <groupId>org.infinispan</groupId>
             <artifactId>infinispan-client-hotrod</artifactId>
